@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+D:\学习工作\工作室\AD project\省实验\智能配送c8t6\Project Outputs for 智能配送c8t6\Pick Place for C8T6.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/08/22
+Time:       18:13
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment       Layer    Footprint       Center-X(mm) Center-Y(mm) Rotation Description           
+U2         AMS1117-3.3   TopLayer SOT223_L        51.8160      58.0390      90       ""                    
+E1         220uF/6.3V    TopLayer CD_C(6032)      43.6880      64.5160      360      贴片钽电容                 
+C6         10uF          TopLayer C_0805          51.6890      51.6890      180      无极性贴片电容               
+C5         104           TopLayer C_0603          44.9580      59.1947      270      无极性贴片电容               
+C4         10uF          TopLayer C_0805          51.8160      64.3890      360      无极性贴片电容               
+C3         104           TopLayer C_0603          56.9087      62.1030      180      无极性贴片电容               
+X1         8M            TopLayer XTAL-49S_DIP    18.7960      34.7980      180      4脚晶振                  
+U1         STM32F103C8T6 TopLayer LQFP48_7X7_M    18.7960      56.2483      360      Flaah:64/RAM:20/IO:36 
+R20        470R          TopLayer R_0603          28.3210      9.6520       270      贴片电阻                  
+R19        470R          TopLayer R_0603          13.8430      9.3980       270      贴片电阻                  
+R18        470R          TopLayer R_0603          8.5090       23.1140      180      贴片电阻                  
+R17        470R          TopLayer R_0603          61.4680      15.6210      360      贴片电阻                  
+R16        470R          TopLayer R_0603          30.8610      9.6520       270      贴片电阻                  
+R15        470R          TopLayer R_0603          15.8750      9.3980       270      贴片电阻                  
+R14        470R          TopLayer R_0603          8.5090       20.5740      180      贴片电阻                  
+R13        470R          TopLayer R_0603          61.4680      18.5420      360      贴片电阻                  
+R12        10K           TopLayer R_0603          34.8361      75.0470      180      ""                    
+R11        470R          TopLayer R_0603          61.3410      29.7180      0        贴片电阻                  
+R10        470R          TopLayer R_0603          61.4680      43.3070      360      贴片电阻                  
+R9         470R          TopLayer R_0603          45.9740      71.2470      90       贴片电阻                  
+R8         470R          TopLayer R_0603          61.3410      32.2580      0        贴片电阻                  
+R7         470R          TopLayer R_0603          61.4299      45.8470      0        贴片电阻                  
+R6         470R          TopLayer R_0603          43.3070      71.2470      90       贴片电阻                  
+R5         1K            TopLayer R_0603          40.2590      56.1340      90       ""                    
+R4         1K            TopLayer R_0603          10.7950      47.2059      90       ""                    
+R3         100K          TopLayer R_0603          38.2270      56.1340      270      ""                    
+R2         100K          TopLayer R_0603          8.5090       47.2440      270      ""                    
+R1         1M            TopLayer R_0603          19.0500      30.4800      180      ""                    
+KEY1       KEY_M         TopLayer TSW_DIP-3*6*4.3 27.0510      76.2000      360      ""                    
+JP16       HDR-1X2       TopLayer XT60            65.1814      63.3185      180      2P接插件                 
+JP15       HDR-1X4       TopLayer XH2.54-4P       29.4640      3.6830       180      4P接插件                 
+JP14       HDR-1X4       TopLayer XH2.54-4P       14.7320      3.6830       180      4P接插件                 
+JP13       HDR-1X4       TopLayer XH2.54-4P       3.0480       21.8440      90       4P接插件                 
+JP12       HDR-1X4       TopLayer XH2.54-4P       67.1830      17.1450      270      4P接插件                 
+JP11       HDR-1X3       TopLayer HDR-1X3         43.0530      4.6990       270      3P接插件                 
+JP10       HDR-1X3       TopLayer HDR-1X3         40.5130      4.6990       270      3P接插件                 
+JP9        HDR-1X8       TopLayer HDR-1X8         2.1590       53.7210      270      8P接插件                 
+JP8        HDR-1X4       TopLayer XH2.54-4P       67.3100      30.9880      270      4P接插件                 
+JP7        HDR-1X4       TopLayer XH2.54-4P       67.1830      44.5770      270      4P接插件                 
+JP6        HDR-1X4       TopLayer XH2.54-4P       44.7040      76.9620      360      4P接插件                 
+JP5        HDR-1X3       TopLayer HDR-1X3         53.2130      4.6990       270      3P接插件                 
+JP4        HDR-1X3       TopLayer HDR-1X3         48.1330      4.6990       270      3P接插件                 
+JP3        HDR-1X3       TopLayer HDR-1X3         50.6730      4.6990       270      3P接插件                 
+JP2        HDR-1X3       TopLayer HDR-1X3         45.5930      4.6990       270      3P接插件                 
+JP1        HDR-1X4       TopLayer XH2.54-4P       13.0810      77.0890      360      4P接插件                 
+C12        104           TopLayer C_0603          34.8477      77.0774      180      ""                    
+C11        104           TopLayer C_0603          14.4690      62.9830      45       ""                    
+C10        104           TopLayer C_0603          25.7720      60.3340      315      ""                    
+C9         104           TopLayer C_0603          12.4550      51.8070      135      ""                    
+C8         104           TopLayer C_0603          20.5867      48.3870      180      ""                    
+C7         104           TopLayer C_0603          56.9087      64.3890      0        ""                    
+C2         22            TopLayer C_0603          22.8600      29.7307      270      ""                    
+C1         22            TopLayer C_0603          14.8590      29.6037      270      ""                    

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=JP9-1
+Removed Pin From Net: NetName=VCC Pin=JP9-2
+Removed Pin From Net: NetName=LCD1 Pin=JP9-3
+Removed Pin From Net: NetName=LCD2 Pin=JP9-4
+Removed Pin From Net: NetName=LCD3 Pin=JP9-5
+Removed Pin From Net: NetName=LCD4 Pin=JP9-6
+Removed Pin From Net: NetName=LCD5 Pin=JP9-7
+Removed Pin From Net: NetName=LCD6 Pin=JP9-8
+Added Pin To Net: NetName=LCD1 Pin=JP9-1
+Added Pin To Net: NetName=LCD2 Pin=JP9-2
+Added Pin To Net: NetName=LCD3 Pin=JP9-3
+Added Pin To Net: NetName=LCD4 Pin=JP9-4
+Added Pin To Net: NetName=LCD5 Pin=JP9-5
+Added Pin To Net: NetName=LCD6 Pin=JP9-6
+Added Pin To Net: NetName=VCC Pin=JP9-7
+Added Pin To Net: NetName=GND Pin=JP9-8
